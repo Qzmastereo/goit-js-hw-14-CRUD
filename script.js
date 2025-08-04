@@ -74,7 +74,7 @@ function updateStudent(id) {
 
 
 function deleteStudent(id) {
-  if (!confirm('Ви впевнені, що хочете видалити цього студента?')) return;
+  if (!confirm('Ви хочете видалити цього студента?')) return;
 
   fetch(`${API_URL}/${id}`, {
     method: 'DELETE'
