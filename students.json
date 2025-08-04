@@ -63,32 +63,6 @@
       ],
       "email": "mykola.bondarenko@example.com",
       "isEnrolled": true
-    },
-    {
-      "id": "4e0a",
-      "name": "Volodymyr",
-      "age": 19,
-      "course": "Web Development",
-      "skills": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ],
-      "email": "volodymyr@example.com",
-      "isEnrolled": true
-    },
-    {
-      "id": "af9f",
-      "name": "Sergiy",
-      "age": 20,
-      "course": "Data Science",
-      "skills": [
-        "Python",
-        "Pandas",
-        "Machine Learning"
-      ],
-      "email": "sergiy.sergiyovich.@example.com",
-      "isEnrolled": true
     }
   ]
 }
